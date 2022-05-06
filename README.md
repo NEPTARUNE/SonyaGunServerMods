@@ -9,11 +9,17 @@ Do you want to install manually?
 Use the list below!
 # Installed Probably for planning purposes Mod List
 The Twilight Forest
+
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 # Installed Mod List
 mrcrayfish's gun
+
 https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod
+
 GraveStone
+
 https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
+
 Obfuscate
+
 https://www.curseforge.com/minecraft/mc-mods/obfuscate/
